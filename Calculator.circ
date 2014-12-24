@@ -134,10 +134,6 @@ end type_architecture;
     <comp loc="(150,210)" name="edgeDetector"/>
     <comp loc="(150,350)" name="edgeDetector"/>
     <comp loc="(560,80)" name="sevSegController"/>
-    <comp lib="5" loc="(710,280)" name="DotMatrix">
-      <a name="matrixcols" val="8"/>
-      <a name="matrixrows" val="8"/>
-    </comp>
     <comp lib="5" loc="(80,320)" name="Button">
       <a name="label" val="SUB"/>
       <a name="labelloc" val="south"/>
@@ -164,6 +160,10 @@ end type_architecture;
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(580,90)" name="7-Segment Display"/>
+    <comp lib="5" loc="(690,280)" name="DotMatrix">
+      <a name="matrixcols" val="8"/>
+      <a name="matrixrows" val="8"/>
+    </comp>
     <comp loc="(150,520)" name="edgeDetector"/>
     <comp lib="5" loc="(80,180)" name="Button">
       <a name="label" val="p10"/>
