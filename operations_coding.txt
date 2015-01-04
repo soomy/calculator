@@ -1,0 +1,6 @@
+Input	Operation
+-----------------
+00		ADD
+01		SUB
+10		MUL
+11		DIV
